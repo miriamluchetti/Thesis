@@ -1,1 +1,2 @@
 # Thesis
+My bachelor's degree thesis. It's written in Italian and the title is "Analisi di un fenomeno aeroelastico dinamico: Il Flutter", that can be translated to "Analysis of a dynamic Aeroelastic Problem: Flutter"
